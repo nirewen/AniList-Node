@@ -1,6 +1,6 @@
 {
 	"name": "@yuna0x0/anilist-node",
-	"version": "1.15.0",
+	"version": "1.15.1",
 	"description": "A lightweight Node.js wrapper for the AniList API",
 	"main": "./lib/index.js",
 	"types": "./lib/types/index.d.ts",
@@ -57,5 +57,5 @@
 		"prettier": "^3.2.5",
 		"typescript": "^5.3.3"
 	},
-	"packageManager": "pnpm@10.16.0+sha512.8066e7b034217b700a9a4dbb3a005061d641ba130a89915213a10b3ca4919c19c037bec8066afdc559b89635fdb806b16ea673f2468fbb28aabfa13c53e3f769"
+	"packageManager": "pnpm@10.24.0+sha512.01ff8ae71b4419903b65c60fb2dc9d34cf8bb6e06d03bde112ef38f7a34d6904c424ba66bea5cdcf12890230bf39f9580473140ed9c946fef328b6e5238a345a"
 }
