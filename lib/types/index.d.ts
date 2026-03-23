@@ -619,6 +619,8 @@ export declare interface MediaSearchEntry extends PageInfo {
         id: number,
         title: MediaTitle
         coverImage: CoverImage,
+        startDate: FuzzyDate,
+        endDate: FuzzyDate,
     }]
 }
 
