@@ -618,6 +618,7 @@ export declare interface MediaSearchEntry extends PageInfo {
     media: [{
         id: number,
         title: MediaTitle
+        coverImage: CoverImage,
     }]
 }
 
